@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 
 [dev-packages]
-"zest.releaser" = "*"
+bumpversion = "*"
 
 [requires]
 python_version = "3.7"
